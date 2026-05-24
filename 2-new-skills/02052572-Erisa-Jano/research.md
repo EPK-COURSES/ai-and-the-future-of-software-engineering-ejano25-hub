@@ -19,9 +19,14 @@ At the same time, the growing use of AI is also changing the role of software en
 
 For this reason, software engineering is no longer focused only on technical coding skills. Developers are increasingly expected to combine programming knowledge with critical thinking, adaptability, and the ability to work effectively with AI technologies.
 
+
 ## Prompt Engineering
 
+Prompt engineering has become important because AI tools do not always produce useful results automatically. In many situations, the quality of the answer depends heavily on how the request is written. For software engineers, this means that simply asking an AI tool to generate code is often not enough. The developer must know how to explain the problem clearly, provide technical details, and guide the AI toward a more accurate result.
 
+In software development, unclear prompts can easily lead to incorrect logic, missing requirements, or insecure solutions. Because of this, developers are increasingly expected to communicate with AI systems more carefully. For example, instead of asking an AI assistant to create a program without details, a developer may need to specify the programming language, project limitations, expected output, security requirements, and testing conditions.
+
+For this reason, prompt engineering is gradually becoming more than just a technical skill. It also requires logical thinking, problem understanding, and the ability to recognize when an AI-generated response is incomplete or unreliable. Even when AI produces working code, software engineers still remain responsible for evaluating whether the result is suitable for a real project.
 
 ## Critical Thinking and Problem Solving
 
