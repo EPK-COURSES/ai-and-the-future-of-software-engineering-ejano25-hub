@@ -13,7 +13,11 @@ This makes the topic of new skills especially important. In the AI era, software
 
 ## Why AI is Changing Software Engineering
 
+Software engineering is changing as Artificial Intelligence (AI) becomes more integrated into development processes. In the past, developers spent more time writing code manually, searching for technical solutions, and debugging problems independently. Today, AI tools are increasingly used to support tasks such as code generation, error detection, and documentation, helping developers work more efficiently.
 
+At the same time, the growing use of AI is also changing the role of software engineers. Developers are now expected to review AI-generated outputs, recognize possible mistakes, and evaluate whether a suggested solution is appropriate for a real project. Since AI tools may sometimes provide inaccurate or incomplete results, human judgement continues to play an important role.
+
+For this reason, software engineering is no longer focused only on technical coding skills. Developers are increasingly expected to combine programming knowledge with critical thinking, adaptability, and the ability to work effectively with AI technologies.
 
 ## Prompt Engineering
 
