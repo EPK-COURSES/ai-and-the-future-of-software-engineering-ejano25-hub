@@ -30,7 +30,11 @@ For this reason, prompt engineering is gradually becoming more than just a techn
 
 ## Critical Thinking and Problem Solving
 
+Critical thinking and problem solving may become even more important in software engineering because AI tools cannot fully understand every situation or project requirement. Although AI can generate solutions quickly, developers still need to decide whether the output is actually useful, efficient, or safe to apply in practice. In many cases, an answer may appear correct at first but still contain logical mistakes, missing requirements, or unnecessary complexity.
 
+For software engineers, solving problems usually involves more than writing functional code. Developers often need to consider performance, security, user needs, long-term maintenance, and how one technical decision may affect other parts of a system. These are areas where human judgement still plays an important role and where AI support alone may not be enough.
+
+Because of this, software engineers may increasingly be valued not only for writing code, but also for understanding problems deeply and making informed decisions. In the AI era, the ability to question results, recognize weaknesses, and improve solutions may become just as important as technical programming skills.
 
 ## System Design and Architecture Understanding
 
