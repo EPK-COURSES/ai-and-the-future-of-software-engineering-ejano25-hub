@@ -38,7 +38,11 @@ Because of this, software engineers may increasingly be valued not only for writ
 
 ## System Design and Architecture Understanding
 
+Although AI tools are becoming better at generating code, understanding how an entire system should be designed may remain one of the most valuable skills for software engineers. Writing a piece of code and designing a complete software system are not the same thing. A program may work correctly in small parts, but still fail if the overall structure of the system is not planned carefully.
 
+In software engineering, developers often need to think about how different components interact, how data moves through a system, how applications can grow over time, and how security or performance may be affected by technical decisions. These are responsibilities that usually require deeper understanding and long-term thinking, which AI tools may not always fully consider.
+
+Because of this, software engineers may increasingly be valued for understanding the bigger picture behind software systems. Even when AI helps with implementation, developers will still need to make decisions about structure, architecture, and how different technologies should work together in a reliable way.
 
 ## Testing and Verification Skills
 
