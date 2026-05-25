@@ -78,3 +78,8 @@ There are also concerns related to privacy, responsibility, and ethical use. In 
 
 ## Conclusion
 
+Artificial Intelligence is changing software engineering in ways that continue to develop quickly. While AI tools may improve productivity and support many technical tasks, they also change the expectations placed on software engineers. Writing code alone may no longer be enough, as developers are increasingly expected to think critically, understand systems, test solutions carefully, communicate effectively, and continue learning as technology evolves.
+
+At the same time, the growing use of AI does not mean that human skills are becoming less important. In many situations, software engineers still need to make decisions, evaluate risks, and understand the reasoning behind technical choices. AI may become a powerful support tool, but it cannot fully replace human judgement, responsibility, or deeper understanding.
+
+For this reason, the future of software engineering may not depend only on technical knowledge, but also on how well developers adapt to change and learn how to work effectively with AI technologies.
