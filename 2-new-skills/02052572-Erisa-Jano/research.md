@@ -70,7 +70,11 @@ For this reason, adaptability may become one of the most valuable long-term qual
 
 ## Challenges and Limitations
 
+Although AI offers many advantages in software engineering, its growing use also creates several challenges and limitations. One important concern is that AI-generated code may sometimes appear correct while still containing hidden mistakes, weak security practices, or solutions that do not fully match the actual requirements of a project. Because of this, depending too much on AI without proper verification may lead to technical problems that are difficult to notice immediately.
 
+Another challenge is that software engineers may become overly dependent on AI tools. If developers rely too heavily on automatically generated answers, there is a risk of weakening problem-solving abilities or reducing deeper understanding of how systems actually work. In software engineering, understanding the logic behind technical decisions remains important, especially when projects become more complex.
+
+There are also concerns related to privacy, responsibility, and ethical use. In some situations, AI systems may process sensitive information or generate outputs without clearly explaining how decisions were made. For this reason, software engineers may need to balance the advantages of AI with careful judgement, responsibility, and technical understanding in order to use these tools effectively.
 
 ## Conclusion
 
