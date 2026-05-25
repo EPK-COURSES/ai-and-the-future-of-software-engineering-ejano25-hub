@@ -54,7 +54,11 @@ For this reason, software engineers may increasingly be valued for their ability
 
 ## Communication and Teamwork
 
+Communication and teamwork remain important because software engineering is rarely an individual activity. Even if AI tools help developers write code faster, most real software projects still depend on people agreeing on requirements, dividing responsibilities, reviewing decisions, and solving problems together. AI may support individual productivity, but it cannot replace the need for clear communication inside a development team.
 
+This skill becomes even more important when AI-generated suggestions are used in a shared project. Developers need to explain why they accept, reject, or modify a generated solution so that the whole team understands the reasoning behind technical decisions. Without clear communication, AI-assisted work can create confusion, duplicated effort, or code that does not match the project’s real goals.
+
+For this reason, teamwork in the AI era is not only about working well with other people, but also about using AI in a responsible and transparent way within a team. Software engineers who can communicate technical ideas clearly, listen to feedback, and collaborate on decisions will remain valuable even as development tools become more advanced.
 
 ## Adaptability and Continuous Learning
 
